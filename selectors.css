@@ -1,7 +1,3 @@
-body{
-    
-}
-
 header{
     border: 1px solid goldenrod;
 }
@@ -47,6 +43,6 @@ a.disabled{
     font-weight: bold;
 }
 
-footer input{
+footer input {
     height: 25px;
 }
